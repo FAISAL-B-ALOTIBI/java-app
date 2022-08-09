@@ -6,7 +6,7 @@ pipeline {
      AWS_ACCESS_KEY_ID     = credentials('FAISAL-B-ALOTIBI-aws-secret-key-id')
      AWS_SECRET_ACCESS_KEY = credentials('AISAL-B-ALOTIBI-aws-secret-access-key.')
 
-     AWS_S3_BUCKET         = "faisal-b-alotibi-belt2d2-artifacts-2022"
+     AWS_S3_BUCKET         = "faisal-b-alotibi-belt2d2-artifacts-123456"
      AWS_REGION            = "me-south-1"
      ARTIFACT_NAME         = "spring-boot-rest-services-0.0.1-SNAPSHOT.jar"
      AWS_EB_APP_NAME       = "FAISAL-ALOTIBI-eb-mv"
