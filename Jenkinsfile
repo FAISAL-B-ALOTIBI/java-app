@@ -13,7 +13,7 @@ pipeline {
      AWS_EB_APP_VERSION    = "${BUILD_ID}"
      AWS_EB_ENVIRONMENT    = "Faisalalotibiebmv-env"
 
-     SONAR_PROJECT_KEY     = "onsite-Faisal-Alotibi-B2D2 "
+     SONAR_PROJECT_KEY     = "onsite-Faisal-Alotibi-B2D2"
      SONAR_IP              = "52.23.193.18"
      SONAR_TOKEN           = "sqp_047cf336f00d212719a303d30773363b336e57e2"
 
